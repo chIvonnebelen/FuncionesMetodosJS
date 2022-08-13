@@ -58,10 +58,11 @@ a {
     right: 0;
     height: 100%;
     width: 65%;
-    background-image: url(img/\ 2.jpg);
+    background-image: url(img/un\ poco\ de\ todo.jpg);
     background-size: cover;
     background-position: center;
    transition: background-image 1s;    
+   
 }
 
 
@@ -70,8 +71,8 @@ a {
 
 }
 .container .user:nth-child(2):hover .img-box{
-    background-image: url(img/1\ .jpg);
+    background-image: url(img/2.jpg);
 }
 .container .cards:nth-child(3):hover .img-box{
-    background-image: url(img/);
+    background-image: url(img/un\ poco\ de\ todo.jpg);
 }+/
