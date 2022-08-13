@@ -65,7 +65,7 @@ a {
 }
 
 
-.container .h1:nth-child(1):hover .img-box{
+/*.container .h1:nth-child(1):hover .img-box{
     background-image: url(img/1\ .jpg);
 
 }
@@ -74,4 +74,4 @@ a {
 }
 .container .cards:nth-child(3):hover .img-box{
     background-image: url(img/);
-}x
+}+/
